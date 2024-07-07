@@ -1,4 +1,4 @@
-# CRON_JOB in DRF 
+# CRON JON (DjangoRestFramework) 
 - removing user <b>is_active=False</b> and expire in 3 days
 
 ## Command
